@@ -1,0 +1,22 @@
+{
+    "short_name": "0nit",
+    "name": "Gallery.0nit Community",
+    "icons": [
+    {
+      "src": "./assets/images/logo/x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+      "src": "./assets/images/logo/x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#00acee",
+    "background_color": "#ffffff"
+   }
+  
+  
